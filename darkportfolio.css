@@ -1,0 +1,145 @@
+
+#change-button{
+    width: 80px;
+    height: 80px;
+    background-color:#171F26;
+    margin-top: 80px;
+    border-radius: 50%;
+    border: none;
+}
+
+#change-button:hover{
+    opacity: 0.75;
+    cursor: pointer;
+}
+path{
+    fill: orange;
+}
+
+body {
+    background-color: #0c151d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#text1{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+   font-size: 44px;
+   margin-top: 60px;
+}
+#text1 img{
+    border-radius: 200%;
+}
+
+ #text1-right {
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    line-height: 10px;
+    
+ }
+ #logo-style{
+    width: 180px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+   
+   display: flex;
+   justify-content: space-between;
+    
+   
+ }
+ .logo{
+    width: 22px;
+    height: 20px;
+
+}
+
+
+#text2{
+    width: 600px;
+    height: 140px;
+    font-size: 22px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+#text2 p{
+    width: 95px;
+    height: 102px;
+    display: flex;
+    text-align: center;
+}
+
+
+.button-style {
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    color:#3D3D3D;
+    border-radius: 10px;
+    margin-right: 40px; 
+}
+
+#background-orange { background-color: orange;
+}
+#background-white {
+    background-color:#FFFFFF;
+}
+#button-style1{
+  
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  
+}
+#button-style2{
+    width: 760px;
+    height: 110px;
+    background-color: #FFFFFF;
+  
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 20px;
+    gap: 200px;
+   margin: 80px;
+   
+  
+}
+#button-style2 button {
+    width: 340px;
+    height: 80px;
+    font-size: 20px;
+    background-color: #D7D7D7;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+  
+
+    
+}
+
+.image{
+    width: 360px;
+    height: 220px;
+  margin: 20px;
+  border-radius: 15px;
+  background-color: #00000033;
+ 
+}
+#text3{
+   font-size: 22px;
+    color: #575757;
+    margin: 40px;
+}
+
