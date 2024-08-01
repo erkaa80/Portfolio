@@ -73,8 +73,9 @@ body {
 }
 
 .button-style {
-  width: 200px;
-  height: 60px;
+  width: 290px;
+  height: 80px;
+  border: none;
   font-size: 18px;
   color: #3d3d3d;
   border-radius: 10px;
@@ -213,6 +214,12 @@ body {
     display: flex;
     margin-left: 40px;
   }
+
+  #button-style1 img {
+    width: 12px;
+    height: 12px;
+  }
+
   #button-style2 {
     width: 375px;
     height: 84px;
