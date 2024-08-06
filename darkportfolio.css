@@ -121,6 +121,7 @@ body {
   height: 220px;
   margin: 20px;
   border-radius: 15px;
+  border: 3px solid orange;
   background-color: #00000033;
 }
 #text3 {
